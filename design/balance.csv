@@ -1,0 +1,7 @@
+wave,basic_combat,armed_combat,infection,carrier,tough_variant,clear_reward,break_seconds
+1,6,0,0,0,0,500,10
+2,8,0,8,0,0,600,10
+3,10,2,8,0,0,700,10
+4,12,2,8,2,0,800,10
+5,14,4,12,2,2,1000,10
+

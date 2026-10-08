@@ -1,0 +1,33 @@
+# Never commit extracted Halo or MCC content.
+*.map
+*.scenario
+*.scenario_*
+*.bitmap
+*.sound
+*.model
+*.render_model
+*.physics_model
+*.collision_model
+*.weapon
+*.vehicle
+*.biped
+*.character
+*.crate
+*.scenery
+*.7z
+*.zip
+
+# Generated tool output and local logs.
+maps/
+tags/
+reports/
+*.log
+debug.txt
+debug_full.txt
+
+# Local editor/OS files.
+.vs/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,4 @@
+; Halo 3 Sapien editor-only logging configuration.
+; Keep objects:function warnings in the log, but only display actual errors.
+event_log_category objects:function: error
+event_display_category objects:function: error
